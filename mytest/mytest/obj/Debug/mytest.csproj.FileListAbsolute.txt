@@ -1,0 +1,45 @@
+C:\Users\Евгений\Documents\Учёба\2015-2016\прик.програм\mytest\mytest\bin\Debug\mytest.exe.config
+C:\Users\Евгений\Documents\Учёба\2015-2016\прик.програм\mytest\mytest\bin\Debug\mytest.exe
+C:\Users\Евгений\Documents\Учёба\2015-2016\прик.програм\mytest\mytest\bin\Debug\mytest.pdb
+C:\Users\Евгений\Documents\Учёба\2015-2016\прик.програм\mytest\mytest\obj\Debug\mytest.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Documents\Учёба\2015-2016\прик.програм\mytest\mytest\obj\Debug\mytest.Form1.resources
+C:\Users\Евгений\Documents\Учёба\2015-2016\прик.програм\mytest\mytest\obj\Debug\mytest.Properties.Resources.resources
+C:\Users\Евгений\Documents\Учёба\2015-2016\прик.програм\mytest\mytest\obj\Debug\mytest.csproj.GenerateResource.Cache
+C:\Users\Евгений\Documents\Учёба\2015-2016\прик.програм\mytest\mytest\obj\Debug\mytest.exe
+C:\Users\Евгений\Documents\Учёба\2015-2016\прик.програм\mytest\mytest\obj\Debug\mytest.pdb
+C:\Users\Евгений\Documents\Учёба\2015-2016\прик.програм\mytest\mytest\obj\Debug\mytest.Form2_Add.resources
+C:\Users\Евгений\Documents\Учёба\2015-2016\прик.програм\mytest\mytest\obj\Debug\mytest.Form3_edit.resources
+C:\Users\Евгений\Documents\Учёба\2015-2016\прик.програм\mytest\mytest\obj\Debug\mytest.Form_go_login.resources
+C:\Users\Евгений\Documents\Учёба\2015-2016\прик.програм\mytest\mytest\obj\Debug\mytest.Form_go_test.resources
+C:\Users\Евгений\Documents\Учёба\2015-2016\прик.програм\mytest\mytest\obj\Debug\mytest.Form_last_res.resources
+C:\Users\Евгений\Documents\Учёба\2015-2016\прик.програм\mytest\mytest\obj\Debug\mytest.Form_results.resources
+E:\mytest\mytest\bin\Debug\mytest.exe.config
+E:\mytest\mytest\obj\Debug\mytest.exe
+E:\mytest\mytest\obj\Debug\mytest.pdb
+E:\mytest\mytest\bin\Debug\mytest.exe
+E:\mytest\mytest\bin\Debug\mytest.pdb
+E:\mytest\mytest\obj\Debug\mytest.csprojResolveAssemblyReference.cache
+E:\mytest\mytest\obj\Debug\mytest.Form1.resources
+E:\mytest\mytest\obj\Debug\mytest.Form2_Add.resources
+E:\mytest\mytest\obj\Debug\mytest.Form3_edit.resources
+E:\mytest\mytest\obj\Debug\mytest.Form_go_login.resources
+E:\mytest\mytest\obj\Debug\mytest.Form_go_test.resources
+E:\mytest\mytest\obj\Debug\mytest.Form_last_res.resources
+E:\mytest\mytest\obj\Debug\mytest.Form_results.resources
+E:\mytest\mytest\obj\Debug\mytest.Properties.Resources.resources
+E:\mytest\mytest\obj\Debug\mytest.csproj.GenerateResource.Cache
+F:\[Visual Studio]\mytest\mytest\bin\Debug\mytest.exe.config
+F:\[Visual Studio]\mytest\mytest\obj\Debug\mytest.exe
+F:\[Visual Studio]\mytest\mytest\obj\Debug\mytest.pdb
+F:\[Visual Studio]\mytest\mytest\bin\Debug\mytest.exe
+F:\[Visual Studio]\mytest\mytest\bin\Debug\mytest.pdb
+F:\[Visual Studio]\mytest\mytest\obj\Debug\mytest.csprojResolveAssemblyReference.cache
+F:\[Visual Studio]\mytest\mytest\obj\Debug\mytest.Form1.resources
+F:\[Visual Studio]\mytest\mytest\obj\Debug\mytest.Form2_Add.resources
+F:\[Visual Studio]\mytest\mytest\obj\Debug\mytest.Form3_edit.resources
+F:\[Visual Studio]\mytest\mytest\obj\Debug\mytest.Form_go_login.resources
+F:\[Visual Studio]\mytest\mytest\obj\Debug\mytest.Form_go_test.resources
+F:\[Visual Studio]\mytest\mytest\obj\Debug\mytest.Form_last_res.resources
+F:\[Visual Studio]\mytest\mytest\obj\Debug\mytest.Form_results.resources
+F:\[Visual Studio]\mytest\mytest\obj\Debug\mytest.Properties.Resources.resources
+F:\[Visual Studio]\mytest\mytest\obj\Debug\mytest.csproj.GenerateResource.Cache
